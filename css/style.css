@@ -6355,7 +6355,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #e0a800 !important;
+  background-color: #f5b342 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9525,7 +9525,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #e0a800 !important;
+  color: #f5b342 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -9770,7 +9770,7 @@ h6,
   height: 50%;
   top: 0;
   left: 0;
-  background: #e0a800;
+  background: #f5b342;
 }
 
 .navbar-light .navbar-nav .nav-link {
